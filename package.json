@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "homepage": "https://google.com",
   "repository": {
-    "url": "https://github.com/"
+    "url": "https://github.com/AndersonNascimentoAFSN/andersonnascimentoafsn-utils"
   },
   "scripts": {
     "build": "tsup src/index.ts --minify --dts --format cjs,esm --out-dir dist",
