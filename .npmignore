@@ -10,5 +10,5 @@ tsup.config.ts
 vitest.config.mts
 commitlint.config.js
 .prettierignore
-.prettierc
+.prettierrc
 .nvmrc
