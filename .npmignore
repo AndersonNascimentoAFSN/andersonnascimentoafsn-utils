@@ -3,7 +3,12 @@ node_modules/
 
 .env
 .DS_Store
+.husky/
 
 tsconfig.json
 tsup.config.ts
 vitest.config.mts
+commitlint.config.js
+.prettierignore
+.prettierc
+.nvmrc
