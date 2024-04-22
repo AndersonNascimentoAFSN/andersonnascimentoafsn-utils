@@ -6,3 +6,4 @@ node_modules/
 
 tsconfig.json
 tsup.config.ts
+vitest.config.mts
