@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
-  "homepage": "https://calc-time-bice.vercel.app/",
+  "homepage": "https://calc-time-bice.vercel.app",
   "engines": {
     "node": ">=20.0.0"
   },
